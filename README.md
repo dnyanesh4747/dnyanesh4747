@@ -11,13 +11,16 @@ Data Visualization: Creating meaningful visualizations to communicate insights e
 🌱 Skills
 
 Programming Languages: Python, SQL, DAX
+
 Databases: MYSQL, PostgreSQL
+
 Data Visualization: Microsoft Power BI, Microsoft Excel Sheets
 
 📚 Education
 [Degree Earned] BCA BACHELOR OF COMPUTER APPLICATION, PANDIT JAWAHARLAL NEHRU COLLAGE
 
 🌐 Connect with Me
+
 www.linkedin.com/in/dnyaneshmunde4747
 
 📬 Contact
