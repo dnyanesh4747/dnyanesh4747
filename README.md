@@ -16,7 +16,7 @@ Welcome to my GitHub profile! 👋 I am passionate about leveraging data to driv
 - **[Degree Earned]** BCA in Computer Science , Pandit Jawaharlal Nehru College.
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/dnyaneshmunde4747)
+- [LinkedIn](https://www.linkedin.com/in/dnyaneshmunde4747/)
 
 ## 📬 Contact
 Feel free to reach out for collaborations or discussions: [dnyaneshwarmunde1895@gmail.com]
